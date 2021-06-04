@@ -1,6 +1,9 @@
 roslaunch ~/catkin_ws/src/apriltag_ros/apriltag_ros/launch/continuous_detection.launch camera_name:="/camera/color" image_topic:="image_raw"
 
+<<<<<<< HEAD
 rqt   , use the /tag_detections_image topic
+=======
+>>>>>>> 59845e3c725585a74ddb67a57643acf0bf7a504a
 
 # apriltag_ros
 
