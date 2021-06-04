@@ -19,6 +19,16 @@
 #   ]
 standalone_tags:
   [
+  {id: 1, size: 0.0431},
+    {id: 2, size: 0.0431},
+    {id: 3, size: 0.0431},
+    {id: 48, size: 0.0431},
+    {id: 49, size: 0.0431},
+    {id: 50, size: 0.0431},
+    {id: 71, size: 0.0431},
+    {id: 72, size: 0.0431},
+    {id: 73, size: 0.0431},
+    {id: 74, size: 0.0431}
   ]
 # ## Tag bundle definitions
 # ### Remarks
